@@ -1,0 +1,19 @@
+{
+  "list": [
+    {
+      "key": "EmptyPage",
+      "name": "Пустая страница",
+      "description": "Пустая страница",
+      "url": "https://github.com/ant-design/pro-blocks/tree/master/EmptyPage",
+      "path": "NewPage",
+      "features": [
+        "antd"
+      ],
+      "img": "https://raw.githubusercontent.com/ant-design/pro-blocks/master/EmptyPage/snapshot.png?raw=true",
+      "tags": [
+        "page"
+      ],
+      "previewUrl": "https://preview.pro.ant.design"
+    }
+  ]
+}
